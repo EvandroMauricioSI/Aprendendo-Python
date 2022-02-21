@@ -1,0 +1,23 @@
+# DESAFIO 004
+
+a = input('Digite algo: ')
+print('O tipo primitivo é   :', type(a))
+print('Só tem espaço?      R: ', a.isspace())
+print('É um número?        R: ', a.isnumeric())
+print('É alfabetico?       R: ', a.isalpha())
+print('É alfanumérico?     R: ', a.isalpha())
+print('Está em maiúscula?  R: ', a.isupper())
+print('Está em minúscula?  R: ', a.islower())
+print('Está capitalizado?  R: ', a.istitle())
+
+print('\n=========================================')
+print ('Imprimindo padrão python 3.6  ".format()" ')
+print('-----------------------------------------')
+print('O tipo primitivo é  R: {}' .format(type(a)))
+print('Só tem espaço?      R: {}' .format(a.isspace()))
+print('É um número?        R: {}' .format(a.isnumeric()))
+print('É alfabetico?       R: {}' .format(a.isalpha()))
+print('É alfanumérico?     R: {}' .format(a.isalpha()))
+print('Está em maiúscula?  R: {}' .format(a.isupper()))
+print('Está em minúscula?  R: {}' .format(a.islower()))
+print('Está capitalizado?  R: {}' .format(a.istitle()))
