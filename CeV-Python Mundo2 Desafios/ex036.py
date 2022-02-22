@@ -1,3 +1,4 @@
+# Exercício 036: Aprovando Empréstimo
 # Escreva um programa para aprovar um empréstimo bancário para a compra de uma casa.
 # O programa vai perguntar o VALOR DA CASA, o SALÁRIO do comprador e em QUANTOS ANOS ele vai pagar.
 # Calcule a prestação mensal sabendo que ela não pode exceder 30% do salário
