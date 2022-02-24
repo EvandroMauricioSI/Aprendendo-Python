@@ -1,4 +1,4 @@
-# Desafio 042
+# Exercício 042: Analisando Triângulos v2.0
 # Refaço o DESAFIO 035 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
 # - equilátero: todos os lados iguais
 # - isósceles: dois lados iguais

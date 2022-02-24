@@ -1,3 +1,4 @@
+# Exercício 040: Aquela Clássica da Média
 # Crie um programa que leia duas notas de um alugo e calcule sua média,
 # mostrando uma mensagem no final, de acordo com a média atingida:
 # - média abaixo de 5.0: reprovado

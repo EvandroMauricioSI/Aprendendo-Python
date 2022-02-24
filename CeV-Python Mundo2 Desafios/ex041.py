@@ -1,3 +1,4 @@
+# Exercício 041: Classificando Atletas
 # A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento
 # de uma atleta e mostre sua categoria conforme a idade:
 #  até 9 anos: mirim; até 14 anos: infantil; até 19 anos: junior; até 25 anos: sênior; acima: master

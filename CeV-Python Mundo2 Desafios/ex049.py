@@ -1,4 +1,4 @@
-# Exercício 049
+# Exercício 049: Tabuada v2.0
 # Refaça o desafio 009, mostrando a tabuada de um número que o usuário escolher, sendo que agora,
 # utilizando o laço for.
 
