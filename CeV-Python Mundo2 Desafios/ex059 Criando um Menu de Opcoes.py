@@ -28,7 +28,7 @@ while op !=5:
             print('{} é maior que {}'.format(v1, v2))
         if v2 > v1:
             print('{} é maior que {}'.format(v2, v1))
-        else:
+        if v1 == v2:
             print('{} é igual a {}'.format(v1, v2))
     if op == 4:
         v1 = float(input('Digite o 1° valor: '))
@@ -36,4 +36,4 @@ while op !=5:
     if op == 5:
         print('FIM')
     if op >5 :
-        print('Opção inválida!')
+        print('\033[1:31m','Opção inválida!','\033[m')

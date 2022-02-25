@@ -1,4 +1,4 @@
-# Exercício 045:
+# Exercício 045: GAME - Pedra, Papel e Tesoura (JOKENPÔ)
 # Crie um programa que faça o computador jogar Jokenpô com você.
 
 from random import randint

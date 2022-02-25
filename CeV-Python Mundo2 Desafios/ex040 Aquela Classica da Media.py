@@ -8,10 +8,10 @@
 nota1 = float(input('Nota 1 : '))
 nota2 = float(input('Nota 2 : '))
 media = (nota1+nota2)/2
-print('Nota 1 = {:.1f}, Nota 2 = {:.1f}, Média = {:.1f} logo '.format(nota1, nota2, media), end='')
+print('Média = {:.1f}'.format(media))
 if media<5.0:
-    print('Reprovado!')
+    print('{} Reprovado! {}'.format('\033[1:97:41m', '\033[m' )) #pode-se usar \033 ou \33
 elif (media >= 5.0) and (media < 7.0):
-    print('Recuperação')
+    print('{} Recuperação {}'.format( '\33[1:97:43m', '\33[m'))
 else:
-    print('Aprovado!')
+    print('\033[1:97:42m', 'Aprovado!', '\33[m') # sem usar o .format(...)
