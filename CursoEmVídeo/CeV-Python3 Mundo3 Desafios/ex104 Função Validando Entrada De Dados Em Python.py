@@ -20,4 +20,4 @@ def leiaInt(msg):
 
 print('--------------------')
 n = leiaInt('Digite um número: ')
-print (f'Você digitou o valor {n}')
+print(f'Você digitou o valor {n}')
